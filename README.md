@@ -357,10 +357,16 @@ python check_links.py
 
 本项目参考了以下优秀的学习资源导航：
 
-- [awesome](https://github.com/sindresorhus/awesome) - 全类别 awesome 资源汇总
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 免费编程书籍
-- [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - 面试题汇总
-- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+| 项目 | 说明 | Stars |
+|------|------|-------|
+| [awesome](https://github.com/sindresorhus/awesome) | 全类别 awesome 资源汇总 | ⭐ 300K+ |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 免费编程书籍 | ⭐ 300K+ |
+| [awesome-python](https://github.com/vinta/awesome-python) | Python 资源大全 | ⭐ 200K+ |
+| [awesome-java](https://github.com/akullpp/awesome-java) | Java 资源大全 | ⭐ 40K+ |
+| [awesome-react](https://github.com/enaqx/awesome-react) | React 生态 | ⭐ 60K+ |
+| [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | 面试题汇总 | ⭐ 60K+ |
+| [awesome-courses](https://github.com/prakhar1989/awesome-courses) | 大学课程资源 | ⭐ 50K+ |
+| [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) | 中文独立博客列表 | ⭐ 20K+ |
 
 ---
 
